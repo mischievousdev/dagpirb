@@ -1,7 +1,7 @@
 # dagpirb
 [![Gem Version](https://badge.fury.io/rb/dagpirb.svg)](https://badge.fury.io/rb/dagpirb)
 
-dagpirbrb is an API wrapper for <a href="https://dagpi.xyz">dagpi</a> written in Ruby.
+dagpirb is an API wrapper for <a href="https://dagpi.xyz">dagpi</a> written in Ruby.
 
 ## Features
 
