@@ -6,7 +6,7 @@ readme = File.open('README.md')
 
 Gem::Specification.new do |spec|
   spec.name          = "dagpirb"
-  spec.version       = Dagpi::VERSION
+  spec.version       = "0.1.0"
   spec.authors       = ["mischievousdev"]
 
   spec.summary       = "dagpirb is an API Wrapper for dagpi.xyz written in ruby!"
