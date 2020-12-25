@@ -1,0 +1,44 @@
+PATH
+  remote: .
+  specs:
+    dagpirb (0.1.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    addressable (2.7.0)
+      public_suffix (>= 2.0.2, < 5.0)
+    domain_name (0.5.20190701)
+      unf (>= 0.0.5, < 1.0.0)
+    ffi (1.14.2-x64-mingw32)
+    ffi-compiler (1.0.1)
+      ffi (>= 1.0.0)
+      rake
+    http (4.4.1)
+      addressable (~> 2.3)
+      http-cookie (~> 1.0)
+      http-form_data (~> 2.2)
+      http-parser (~> 1.2.0)
+    http-cookie (1.0.3)
+      domain_name (~> 0.5)
+    http-form_data (2.3.0)
+    http-parser (1.2.2)
+      ffi-compiler
+    minitest (5.14.2)
+    public_suffix (4.0.6)
+    rake (12.3.3)
+    unf (0.1.4)
+      unf_ext
+    unf_ext (0.0.7.7-x64-mingw32)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  dagpirb!
+  http (~> 4.4.1)
+  minitest (~> 5.0)
+  rake (~> 12.0)
+
+BUNDLED WITH
+   2.1.4
