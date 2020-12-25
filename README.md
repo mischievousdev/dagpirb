@@ -1,5 +1,4 @@
 # dagpirb
-[![Build Status](https://travis-ci.com/mischievousdev/dagpi.rb.svg?branch=master)](https://travis-ci.com/mischievousdev/dagpi.rb)
 [![Gem Version](https://badge.fury.io/rb/dagpirb.svg)](https://badge.fury.io/rb/dagpirb)
 
 dagpirbrb is an API wrapper for <a href="https://dagpi.xyz">dagpi</a> written in Ruby.
